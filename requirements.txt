@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+python-dotenv
+pandas
+numpy
+scikit-learn
+bcrypt
+python-jose
+joblib
+requests
